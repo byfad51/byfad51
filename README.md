@@ -10,11 +10,11 @@
 
 - 🤝 Flutter Project [BEKLET](https://github.com/byfad51/Flutter_Team_Project)
 
-- 🌱 I’m currently learning **Flutter and React**
-
 - 👯 Flutter Project [Farmer Information Platform](https://github.com/byfad51/Farmer_Information_Platform)
 
-- 🔭 I've recently been working on [Spring and React](for a course team project)
+- 🌱 There is a new project for Flutter I working
+
+- 🔭 I've currently been working on [Spring and React](for a course team project)
 
 - 📫 How to reach me **byfad51@gmail.com**
 
